@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\bin\Debug\net6.0\C#102HTTPStatus.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\bin\Debug\net6.0\C#102HTTPStatus.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\bin\Debug\net6.0\C#102HTTPStatus.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\bin\Debug\net6.0\C#102HTTPStatus.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\bin\Debug\net6.0\C#102HTTPStatus.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\refint\C#102HTTPStatus.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\C#102HTTPStatus.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102HTTPStatus\obj\Debug\net6.0\ref\C#102HTTPStatus.dll
