@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\bin\Debug\net6.0\C#102Vowel.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\bin\Debug\net6.0\C#102Vowel.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\bin\Debug\net6.0\C#102Vowel.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\bin\Debug\net6.0\C#102Vowel.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\bin\Debug\net6.0\C#102Vowel.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\refint\C#102Vowel.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\C#102Vowel.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102Vowel\obj\Debug\net6.0\ref\C#102Vowel.dll
