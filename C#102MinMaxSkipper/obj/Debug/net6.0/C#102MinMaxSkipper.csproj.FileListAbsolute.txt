@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\bin\Debug\net6.0\C#102MinMaxSkipper.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\bin\Debug\net6.0\C#102MinMaxSkipper.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\bin\Debug\net6.0\C#102MinMaxSkipper.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\bin\Debug\net6.0\C#102MinMaxSkipper.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\bin\Debug\net6.0\C#102MinMaxSkipper.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\refint\C#102MinMaxSkipper.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\C#102MinMaxSkipper.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102MinMaxSkipper\obj\Debug\net6.0\ref\C#102MinMaxSkipper.dll
