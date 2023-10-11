@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\bin\Debug\net6.0\C#102RunningTotal.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\bin\Debug\net6.0\C#102RunningTotal.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\bin\Debug\net6.0\C#102RunningTotal.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\bin\Debug\net6.0\C#102RunningTotal.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\bin\Debug\net6.0\C#102RunningTotal.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\refint\C#102RunningTotal.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\C#102RunningTotal.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102RunningTotal\obj\Debug\net6.0\ref\C#102RunningTotal.dll
