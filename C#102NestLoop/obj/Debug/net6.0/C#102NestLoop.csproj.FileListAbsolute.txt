@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\bin\Debug\net6.0\C#102NestLoop.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\bin\Debug\net6.0\C#102NestLoop.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\bin\Debug\net6.0\C#102NestLoop.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\bin\Debug\net6.0\C#102NestLoop.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\bin\Debug\net6.0\C#102NestLoop.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\refint\C#102NestLoop.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\C#102NestLoop.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102NestLoop\obj\Debug\net6.0\ref\C#102NestLoop.dll
