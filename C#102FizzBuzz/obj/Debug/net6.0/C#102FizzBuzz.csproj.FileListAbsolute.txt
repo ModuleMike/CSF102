@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\bin\Debug\net6.0\C#102FizzBuzz.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\bin\Debug\net6.0\C#102FizzBuzz.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\bin\Debug\net6.0\C#102FizzBuzz.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\bin\Debug\net6.0\C#102FizzBuzz.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\bin\Debug\net6.0\C#102FizzBuzz.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\refint\C#102FizzBuzz.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\C#102FizzBuzz.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102FizzBuzz\obj\Debug\net6.0\ref\C#102FizzBuzz.dll
