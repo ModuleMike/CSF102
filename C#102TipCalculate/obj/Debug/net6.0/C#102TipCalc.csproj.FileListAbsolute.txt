@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\bin\Debug\net6.0\C#102TipCalc.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\bin\Debug\net6.0\C#102TipCalc.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\bin\Debug\net6.0\C#102TipCalc.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\bin\Debug\net6.0\C#102TipCalc.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\bin\Debug\net6.0\C#102TipCalc.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\refint\C#102TipCalc.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\C#102TipCalc.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#102TipCalc\obj\Debug\net6.0\ref\C#102TipCalc.dll
